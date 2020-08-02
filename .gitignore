@@ -1,0 +1,13 @@
+# Clion
+.idea/
+
+# CMake
+cmake-build-*/
+build*/**/*
+
+# Project output
+*.octvis
+*.gif
+*.html
+*.log
+*.png

@@ -1,0 +1,8 @@
+name = "VisualizeImplicitOctree"
+uuid = "855b4201-8e90-4ff2-ba4c-89d65e08c787"
+authors = ["s-nandi <saujas.nandi@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+GR = "28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"

@@ -1,0 +1,12 @@
+WarningsAsErrors: '*,
+                  -llvm-header-guard,
+                  -google-build-using-namespace,
+                  -clang-analyzer-alpha.clone.CloneChecker,
+                  -google-runtime-int,
+                  -cppcoreguidelines-pro-bounds-array-to-pointer-decay,
+                  -clang-analyzer-alpha.deadcode.UnreachableCode,
+                  -cppcoreguidelines-pro-type-vararg,
+                  -modernize-use-emplace,
+                  -cert-err60-cpp,
+                  -fuchsia-trailing-return,
+                  -fuchsia-default-arguments'
