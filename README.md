@@ -140,8 +140,8 @@ The benchmarks for the normal distribution are:
 ![alt text]( ./VisualizeImplicitOctree/starred/normal_queries_benchmark.png)
 
 The other benchmarks for poisson and uniform distributions are located at:
-* [poisson construction](./VisualizeImplicitOctree/starred/poission_construction_benchmark.png) 
-* [poisson queries](./VisualizeImplicitOctree/starred/poission_queries_benchmark.png) 
+* [poisson construction](./VisualizeImplicitOctree/starred/poisson_construction_benchmark.png) 
+* [poisson queries](./VisualizeImplicitOctree/starred/poisson_queries_benchmark.png) 
 * [uniform construction](./VisualizeImplicitOctree/starred/uniform_construction_benchmark.png)
 * [uniform queries](./VisualizeImplicitOctree/starred/uniform_queries_benchmark.png) 
 
